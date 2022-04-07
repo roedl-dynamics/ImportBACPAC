@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\130\SqlPackage.exe" /Action:Import /SourceFile:"J:\MSSQL_BACKUP\RCON SATbackup.bacpac" /TargetConnectionString:"Data Source=localhost;Initial Catalog=AxDB;Integrated Security=True;" /p:CommandTimeout="0"
+pause
